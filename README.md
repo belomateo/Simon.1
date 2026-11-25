@@ -4,7 +4,7 @@ Demo interactiva en español para un petshop con local, depósito y veterinaria.
 
 ## Demo pública
 
-https://belomateo.github.io/simon-petshop-demo/
+https://belomateo.github.io/Simon.1/
 
 ## Ejecutar
 
